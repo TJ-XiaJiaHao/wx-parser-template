@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/48/手机号</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="icon/48/手机号" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="base">
+                <use fill="#F7F8FA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#F0F2FA" stroke-width="2" cx="24" cy="24" r="23"></circle>
+            </g>
+            <g id="smartphone-call" transform="translate(19.000000, 14.000000)" fill="#61708F">
+                <path d="M1.99201702,1.91191589e-15 C0.891856397,2.21171988e-15 0,0.898212381 0,1.99079514 L0,18.0092049 C0,19.1086907 0.900176167,20 1.99201702,20 L9.00798298,20 C10.1081436,20 11,19.1017876 11,18.0092049 L11,1.99079514 C11,0.891309342 10.0998238,-2.97536772e-16 9.00798298,0 L1.99201702,1.91191589e-15 Z M5,18.2523422 C5,18.1129775 5.10701752,18 5.25234222,18 L5.74765778,18 C5.88702254,18 6,18.1070175 6,18.2523422 L6,18.7476578 C6,18.8870225 5.89298248,19 5.74765778,19 L5.25234222,19 C5.11297746,19 5,18.8929825 5,18.7476578 L5,18.2523422 Z M6.50461102,1 C6.7782068,1 7,1.23193359 7,1.5 L7,1.5 C7,1.77614237 6.7842474,2 6.50461102,2 L4.49538898,2 C4.2217932,2 4,1.76806641 4,1.5 L4,1.5 C4,1.22385763 4.2157526,1 4.49538898,1 L6.50461102,1 Z M1,17 L1,3 L10,3 L10,17 L1,17 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "name": "her-wxapp-template",
+  "version": "1.0.0",
+  "description": "her-wxapp-template",
+  "scripts": {
+    "parse": "gulp",
+    "dev": "mp-parser -w",
+    "build": "mp-parser && npm run codeCompression",
+    "fontCompression": "node build/compression/font/index.js",
+    "codeCompression": "node build/compression/code/index.js"
+  },
+  "author": "yued-fe",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.16.0",
+    "cssnano": "^4.1.0",
+    "font-spider": "^1.3.4",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^10.0.1",
+    "gulp-iconfont-css": "^2.3.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-inline-fonts": "^1.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "html-minifier": "^3.5.20",
+    "lodash": "^4.17.11",
+    "merge-stream": "^1.0.1",
+    "mp-parser": "^1.1.4",
+    "natives": "^1.1.6",
+    "ora": "^3.0.0",
+    "uglify-es": "^3.3.9"
+  },
+  "devDependencies": {
+    "reduce-css-calc": "^2.1.6"
+  }
+}
